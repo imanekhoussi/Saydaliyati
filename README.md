@@ -197,6 +197,17 @@ The application has been tested for:
 - **Accessibility**: Advanced accessibility features
 - **Integration**: Connect with other health services
 - **iOS Version**: Develop iOS counterpart
+## Team
+
+This project was developed by students from the **Faculty of Science and Technology of Tangier (FST)** as part of their **Mobile Development** course:
+
+- **Imane Khoussi**
+- **Aymane Zian**
+- **Nada Cherki** 
+
+
+**Supervisor**: Mme Hafida KHALFAOUI
+
 
 
 ## Acknowledgments

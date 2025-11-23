@@ -198,19 +198,6 @@ The application has been tested for:
 - **Integration**: Connect with other health services
 - **iOS Version**: Develop iOS counterpart
 
-## Team
-
-This project was developed by students from the **Faculty of Science and Technology of Tangier (FST)** as part of their **Mobile Development** course:
-
-- **Aymane Zian**
-- **Nada Cherki** 
-- **Imane Khoussi**
-
-**Supervisor**: Mme Hafida KHALFAOUI
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 

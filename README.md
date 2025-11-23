@@ -1,6 +1,6 @@
 # Saydaliati - Pharmacy Locator App
 
-![Saydaliati Logo](app_icon.png)
+![Saydaliati Logo](screenshots/app_icon.png)
 
 **Find pharmacies near you, including those on duty**
 
